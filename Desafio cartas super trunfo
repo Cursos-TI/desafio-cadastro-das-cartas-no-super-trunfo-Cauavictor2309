@@ -1,4 +1,6 @@
- printf("Desafio cartas super trunfo\n");
- 
+#include <stdio.h>
 
-
+int main(){
+printf("Desafio cartas super trunfos\n");
+printf("Novo commit\n");
+}
