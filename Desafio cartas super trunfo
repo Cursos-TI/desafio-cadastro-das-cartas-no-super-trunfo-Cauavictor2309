@@ -1,6 +1,21 @@
 #include <stdio.h>
 
 int main(){
-printf("Desafio cartas super trunfos\n");
-printf("Novo commit\n");
+printf("Desafio cartas super trunfos"\n);
+printf("Novo commit"\n);
 }
+/// @brief 
+char Estado; A,B,C,D,E,F,G,H 
+char Código da carta; A01,B01,C01,D01,E01,F01,G01,H01
+char[A01;Ceará];
+int 8 750 000
+float 148.886 km²
+float 6,48%
+int 15
+
+print("Estado:A01 Ceará")
+printf("Ceará\n")
+printf("A01\n")
+scanf("%d,8 750 000\n")
+sacnf("%d,148.886 km²\n")
+
